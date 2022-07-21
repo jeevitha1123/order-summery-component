@@ -39,14 +39,14 @@ background-color: white;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }
-h2{
+h1{
     font-family: 'Red Hat Display', sans-serif;
     font-weight:900;
     font-size:22px;
     color: hsl(223, 47%, 23%);
     
 }
-h4{
+h2{
     font-family: 'Red Hat Display', sans-serif;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
